@@ -17,7 +17,5 @@ public class BoolTest {
         }
         //результат сравнения - значение типа boolean
         System.out.println( (10 < 9));
-
-
     }
 }
